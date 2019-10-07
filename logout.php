@@ -4,6 +4,5 @@
       session_destroy();
       header("location:index.php");
       exit();
-      //echo '<a href="logout.php?token='.$token.'>Confirmar logout</a>';
     }
 ?>
